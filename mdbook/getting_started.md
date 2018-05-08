@@ -1,3 +1,6 @@
+---
+author:david benge
+---
 # Getting Started
 A Python IoT framework to easily integrate sensors of any kind into your projects.
 
