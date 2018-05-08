@@ -1,5 +1,3 @@
-*[blog-date]: 2018-04-27
-
 # Getting Started
 A Python IoT framework to easily integrate sensors of any kind into your projects.
 
