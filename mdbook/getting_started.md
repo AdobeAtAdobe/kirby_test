@@ -1,3 +1,5 @@
+[comment]: <> (This is a comment, it will not be included)
+
 # Getting Started
 A Python IoT framework to easily integrate sensors of any kind into your projects.
 
