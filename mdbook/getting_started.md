@@ -13,7 +13,7 @@ A Python IoT framework to easily integrate sensors of any kind into your project
   * [Configure](#configure "Configuration steps")
   * [Examples](#examples "Examples")
     * [Data collection](#user-content-data-collection-examples "Data collection point examples")
-    * [Javascript integration](#javascriptclientexamples "Javascript integration examples")
+    * [Javascript integration](#user-content-javascript-client-examples "Javascript integration examples")
     * [MQTT](#mqttexamples "MQTT publishing examples")
     * [Logging](#loggingexamples "Logging examples")
   * [Contributing](#contributing "Contributing")
