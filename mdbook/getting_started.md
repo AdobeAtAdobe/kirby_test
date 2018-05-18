@@ -6,8 +6,8 @@ A Python IoT framework to easily integrate sensors of any kind into your project
 
   * [About](#about "About")
     * [Communication](#communication-channels "About communication channels")
-    * [Events](#user-content-event-structure "About event structure")
-    * [TO DO](#user-content-to-do "TO DO list")
+    * [Events](#event-structure "About event structure")
+    * [TO DO](#to-do "TO DO list")
     * [Notes](#notes "Notes")
   * [Installation](#install "Installation steps")
   * [Configure](#configure "Configuration steps")
