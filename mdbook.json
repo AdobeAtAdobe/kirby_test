@@ -24,6 +24,10 @@
             "path":"AdobeAtAdobe/kirby_test/master/mdbook/setup.md"
         },
         {
+            "title":"Test external link",
+            "path":"http://www.adobe.io"
+        },
+        {
             "title":"Page 1",
             "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.md",
             "pages":[
@@ -44,6 +48,11 @@
                                     "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.3.md"
                                 }
                             ]
+                        },
+                        {
+                            "title":"Test external link 2",
+                            "href_target":"_blank",
+                            "path":"http://www.adobe.io"
                         }
                     ]
                 }
@@ -84,6 +93,11 @@
                 {
                     "title":"Page 2.1",
                     "path":"AdobeAtAdobe/kirby_test/master/mdbook/page2.1.md"
+                },
+                {
+                    "title":"Test external link 3",
+                    "href_target":"_top",
+                    "path":"http://www.adobe.io"
                 }
             ]
         }
