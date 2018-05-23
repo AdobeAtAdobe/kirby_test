@@ -24,6 +24,10 @@
             "path":"AdobeAtAdobe/kirby_test/master/mdbook/setup.md"
         },
         {
+            "title":"Test external link",
+            "path":"http://www.adobe.io"
+        },
+        {
             "title":"Page 1",
             "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.md",
             "pages":[
