@@ -51,7 +51,7 @@
                         },
                         {
                             "title":"Test external link 2",
-                            "href_target":"_blank",
+                            "window_target":"_blank",
                             "path":"http://www.adobe.io"
                         }
                     ]
@@ -96,7 +96,7 @@
                 },
                 {
                     "title":"Test external link 3",
-                    "href_target":"_top",
+                    "window_target":"_top",
                     "path":"http://www.adobe.io"
                 }
             ]
