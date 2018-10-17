@@ -23,6 +23,7 @@ A Python IoT framework to easily integrate sensors of any kind into your project
     * [Code of conduct](#code-of-conduct "Code of conduct")
   * [License](./LICENSE "License")
 
+[Samples](samples/page1.md)
 
 ## About
 The number one goal of this effort was to make it dead simple to use sensors.  So, we've isolated and simplified everything other than data collection.  In SimpleSensor's basic use, just collect data and put it in the queue.  Everything else is handled by the other threads, which we have developed for you.  There may be a bit of configuration that needs to be done to turn on and connect to your communication channels, but that’s it.  You could also extend SimpleSensor and add your own modules and communication channels; we'll gladly take pull requests that follow the [contribution guidelines](#contributing "Contributing").
