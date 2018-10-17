@@ -10,7 +10,7 @@
     "show_edit_github_banner":false,
     "show_edit_svn_banner":false,
     "base_path":"https://raw.githubusercontent.com",
-    "app2app_map":[{"repoDirPath":"AdobeAtAdobe/kirby_test/master/mdbook/samples":"displayPage":"/newSamplePage.html"}],
+    "app2app_map":[{"repoDirPath":"AdobeAtAdobe/kirby_test/master/mdbook/samples","displayPage":"/newSamplePage.html"}],
     "pages":[
         {
             "title":"Getting Started",
