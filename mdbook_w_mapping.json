@@ -10,7 +10,7 @@
     "show_edit_github_banner":false,
     "show_edit_svn_banner":false,
     "base_path":"https://raw.githubusercontent.com",
-    "app2app_map":[{"repoDirPath":"tutorials/":"displayPage":"/apis/cloudplatform/dataservices/tutorials/alltutorials.html"}],
+    "app2app_map":[{"repoDirPath":"AdobeAtAdobe/kirby_test/master/mdbook/samples":"displayPage":"/newSamplePage.html"}],
     "pages":[
         {
             "title":"Getting Started",
@@ -57,34 +57,6 @@
                         }
                     ]
                 }
-            ],
-            "samples": [
-                {   
-                    "group": "Javascript", 
-                    "view_type":"codesample",
-                    "items":[
-                        {
-                            "title":"simple js sample",
-                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.md"
-                        },
-                        {
-                            "title":"simple js sample 2",
-                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.2.md"
-                        }
-                    ]
-                },
-                {
-                    "view_type":"codesample",
-                    "group": "Html", 
-                    "items" : [
-                        {
-                            "title":"sample html sample",
-                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/html.md"
-                        }
-                    ]
-                    
-                }
-                
             ]
         },
         {
